@@ -1,5 +1,7 @@
 # Country List UI Application
 
+https://github.com/user-attachments/assets/5c23651e-e595-429f-9f8e-e10fbc713f89
+
 This project is a Country List UI application built with **Jetpack Compose** using **MVVM architecture**. The app displays a list of countries with details such as their name, capital, currency, population, and flag. It supports offline data persistence with Room database, network data fetching, search functionality, population filtering, and graceful error handling.
 
 ---
@@ -71,3 +73,4 @@ This project is a Country List UI application built with **Jetpack Compose** usi
 - In the background, the app fetches the latest data from the network (if available) and updates the database.
 - The UI refreshes with the latest data without user intervention.
 - Users can search countries by name and filter them based on population.
+
